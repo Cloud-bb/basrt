@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/basrt/static/css/main.14eab4fe.css",
+    "main.js": "/basrt/static/js/main.0ed8ee87.js",
+    "static/js/453.79c9fce3.chunk.js": "/basrt/static/js/453.79c9fce3.chunk.js",
+    "static/media/back.jpg": "/basrt/static/media/back.57bf48fd20e701e66d47.jpg",
+    "index.html": "/basrt/index.html",
+    "main.14eab4fe.css.map": "/basrt/static/css/main.14eab4fe.css.map",
+    "main.0ed8ee87.js.map": "/basrt/static/js/main.0ed8ee87.js.map",
+    "453.79c9fce3.chunk.js.map": "/basrt/static/js/453.79c9fce3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.14eab4fe.css",
+    "static/js/main.0ed8ee87.js"
+  ]
+}
